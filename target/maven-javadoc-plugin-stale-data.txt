@@ -1,0 +1,51 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'21'
+-sourcepath
+'/Users/aymanaitachour/Desktop/BankApp/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/aymanaitachour/Desktop/BankApp/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'BankApp 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'BankApp 1.0-SNAPSHOT API'
+com.bankapp
+com.bankapp.enums
+com.bankapp.models
+com.bankapp.exceptions
+com.bankapp.collections
+/Users/aymanaitachour/Desktop/BankApp/src/main/java = 1719941232000
+/Users/aymanaitachour/Desktop/BankApp/target/site/apidocs/tag-search-index.js = 1720263434727
+/Users/aymanaitachour/Desktop/BankApp/target/site/apidocs/overview-tree.html = 1720263434690
+/Users/aymanaitachour/Desktop/BankApp/target/site/apidocs/module-search-index.js = 1720263434724
+/Users/aymanaitachour/Desktop/BankApp/target/site/apidocs/index.html = 1720263434692
+/Users/aymanaitachour/Desktop/BankApp/target/site/apidocs/package-search-index.js = 1720263434724
+/Users/aymanaitachour/Desktop/BankApp/target/site/apidocs/link.svg = 1720263434791
+/Users/aymanaitachour/Desktop/BankApp/target/site/apidocs/serialized-form.html = 1720263434570
+/Users/aymanaitachour/Desktop/BankApp/target/site/apidocs/index-all.html = 1720263434776
+/Users/aymanaitachour/Desktop/BankApp/target/site/apidocs/allpackages-index.html = 1720263434723
+/Users/aymanaitachour/Desktop/BankApp/target/site/apidocs/member-search-index.js = 1720263434727
+/Users/aymanaitachour/Desktop/BankApp/target/site/apidocs/copy.svg = 1720263434790
+/Users/aymanaitachour/Desktop/BankApp/target/site/apidocs/script.js = 1720263434789
+/Users/aymanaitachour/Desktop/BankApp/target/site/apidocs/stylesheet.css = 1720263434788
+/Users/aymanaitachour/Desktop/BankApp/target/site/apidocs/search-page.js = 1720263434794
+/Users/aymanaitachour/Desktop/BankApp/target/site/apidocs/overview-summary.html = 1720263434779
+/Users/aymanaitachour/Desktop/BankApp/target/site/apidocs/help-doc.html = 1720263434784
+/Users/aymanaitachour/Desktop/BankApp/target/site/apidocs/element-list = 1720263434483
+/Users/aymanaitachour/Desktop/BankApp/target/site/apidocs/search.html = 1720263434778
+/Users/aymanaitachour/Desktop/BankApp/target/site/apidocs/allclasses-index.html = 1720263434720
+/Users/aymanaitachour/Desktop/BankApp/target/site/apidocs/type-search-index.js = 1720263434725
+/Users/aymanaitachour/Desktop/BankApp/target/site/apidocs/search.js = 1720263434792

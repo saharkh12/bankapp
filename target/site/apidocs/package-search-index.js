@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.bankapp"},{"l":"com.bankapp.collections"},{"l":"com.bankapp.enums"},{"l":"com.bankapp.exceptions"},{"l":"com.bankapp.models"}];updateSearchResults();
